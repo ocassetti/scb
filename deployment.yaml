@@ -1,0 +1,7 @@
+name: scp
+target_dir: "artifacts"
+entry_points:
+  - "main.py"
+modules:
+  - "scb"
+packages_bucket:  ""
